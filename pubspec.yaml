@@ -14,6 +14,7 @@ dependencies:
   flutter_pdfview:
     git:
       url: git://github.com/lednewcrk/flutter_pdfview.git
+      ref: fix_1.0.3+6
   flutter_cache_manager: ^1.4.2
   path_provider: ^1.6.21
   path: ^1.6.4
